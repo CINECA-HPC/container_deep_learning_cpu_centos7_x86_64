@@ -68,9 +68,7 @@ yum  -y install                libffi
 yum  -y install                libffi-devel 
 yum  -y install                scl-utils
 yum -y install libpsm2 libpsm2-devel pmix pmix-devel
-
 yum -y install centos-release-scl
-
 yum -y install devtoolset-7 devtoolset-7-gcc devtoolset-7-gcc-c++ 
 
 # LOAD GNU 7.3.1
