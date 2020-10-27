@@ -2,7 +2,6 @@ Bootstrap: docker
 From: centos:centos7.8.2003 
 IncludeCmd: yes
 
-
 %post
 
 # Python
@@ -76,7 +75,6 @@ yum -y install devtoolset-7 devtoolset-7-gcc devtoolset-7-gcc-c++
 
 # LOAD GNU 7.3.1
 
-# General environment variables
 export PATH=/opt/rh/devtoolset-7/root/usr/bin${PATH:+:${PATH}}
 export MANPATH=/opt/rh/devtoolset-7/root/usr/share/man:${MANPATH}
 export INFOPATH=/opt/rh/devtoolset-7/root/usr/share/info${INFOPATH:+:${INFOPATH}}
