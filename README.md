@@ -11,3 +11,8 @@ In the specific:
 - Torchvision 0.5.0 CPU (pip) 
 - MxNet 1.6.0 CPU (pip) 
 - Horovod 0.19.1 (compiled with Tensorflow, Pytorch, MxNet)
+
+This recipe works on both clusters in Cineca (arch x86_64):
+
+- Marconi Skylake,
+- Galileo
