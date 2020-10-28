@@ -92,9 +92,6 @@ mkdir -p /var/run/sshd
 
 pip3 install --upgrade pip 
 
-
-
-
 # Install Open MPI
 mkdir -p /tmp/openmpi 
 cd /tmp/openmpi 
