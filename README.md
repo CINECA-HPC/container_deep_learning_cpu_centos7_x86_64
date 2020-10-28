@@ -1,4 +1,5 @@
-# singularity_horovod0191_python36_openmpi211_centos7_x86_64
+# singularity_deep_learning_cpu_centos7_x86_64
+
 Singularity container recipe for Deep Learning for architecture x86_64 based on a CentOS 7. 
 In the specific:  
 
