@@ -1,6 +1,6 @@
-# singularity_deep_learning_cpu_centos7_x86_64
+# container_deep_learning_cpu_centos7_x86_64
 
-Singularity container recipe for Deep Learning for architecture x86_64 based on a CentOS 7. 
+Container recipes for Deep Learning for architecture x86_64 based on a CentOS 7. 
 In the specific:  
 
 - centos7.8.2003  
