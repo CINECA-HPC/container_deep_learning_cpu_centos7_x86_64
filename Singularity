@@ -2,6 +2,7 @@ Bootstrap: docker
 From: centos:centos7.8.2003 
 IncludeCmd: yes
 
+
 %post
 
 # Python
