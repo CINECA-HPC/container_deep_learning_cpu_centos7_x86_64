@@ -1,7 +1,7 @@
 Bootstrap: docker
 From: centos:centos7.8.2003 
 IncludeCmd: yes
-# edit test
+
 
 %post
 
